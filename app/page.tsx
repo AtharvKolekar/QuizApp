@@ -13,7 +13,7 @@ export default function Home() {
         className="text-white text-center text-4xl md:text-5xl lg:text-6xl 
                     font-extrabold mb-8 animate-fade-in-down drop-shadow-lg"
       >
-        Welcome to the <span className="text-yellow-300">AK Quiz</span> 🎉
+        Welcome to the <span className="text-yellow-300">Cerevox</span> 🎉
       </h1>
 
       <section 
